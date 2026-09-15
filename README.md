@@ -1,2 +1,3 @@
 # PEGA-TCA
 EVIDENCE-GUIDED SELECTIVE AUDIO ADAPTATION WITH TOKEN-LEVEL CROSS-ATTENTION FOR ALZHEIMER’S DISEASE DETECTION
+The source code will be made publicly available upon acceptance of the paper.
